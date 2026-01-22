@@ -15,4 +15,4 @@ This project applies machine learning classification techniques to predict the s
 - Random Forest
 - Gradient Boosting
 
-The full analysis, experiments and results can be found in 'traffic_accident_classification.ipynb'.
+The full analysis, experiments and results can be found in `traffic_accident_classification.ipynb`.
